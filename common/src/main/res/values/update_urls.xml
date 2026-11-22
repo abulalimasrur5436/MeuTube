@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="update_urls">
+        <!-- MeuTube releases feed -->
+        <item>https://github.com/abulalimasrur5436/MeuTube/releases/latest/download/meutube.json</item>
+        <item>https://github.com/abulalimasrur5436/MeuTube/releases/download/latest/meutube.json</item>
+    </string-array>
+</resources>
