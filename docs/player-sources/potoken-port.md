@@ -105,7 +105,7 @@ Line numbers are for `16e67076` (fork) or `476357b4` (upstream).
 
 - **Request** (`:119-146`, `:314-343`): `POST https://www.youtube.com/api/jnn/v1/Create`.
   - Body `[ "O43z0dpjhgX20SCx4KAo" ]`.
-  - Headers: the UA above, `Accept: application/json`, `Content-Type: application/json+protobuf`, `x-goog-api-key: AIzaSyDyT5W0Jh49F30Pqqtyfdf7pDLFKLJoAnw`, `x-user-agent: grpc-web-javascript/0.1`.
+  - Headers: the UA above, `Accept: application/json`, `Content-Type: application/json+protobuf`, `x-goog-api-key: AIzaSy...Anw`, `x-user-agent: grpc-web-javascript/0.1`.
   - Sent through `OkHttpManager.instance()`, the base SharedModules client. It has no InnerTube interceptors, no auth and no cookie jar (the interceptors live on `RetrofitOkHttpHelper`'s derived client, `RetrofitOkHttpHelper.kt:88-89,189`).
 - **Parse** (`JavaScriptUtil.kt:15-52`): if element 1 is a string it is base64-decoded and each byte gets +97 ("descramble"). Then:
   - `[0]` messageId, `[1]` inline interpreter JS, `[2]` trusted URL, `[3]` interpreterHash, `[4]` program, `[5]` globalName, `[7]` clientExperimentsStateBlob.

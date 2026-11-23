@@ -665,7 +665,7 @@ played with ExoPlayer, but the related code has not yet been implemented"), none
 - **TV Simply PoToken (PR #2533, 2026-08-21/22)**: cold-start challenge from
   `https://www.youtube.com/tv_config?action_get_config=true` ("seems to be valid only on TV Simply") →
   WebView BotGuard → `POST /api/jnn/v1/GenerateIT` (request key `O43z0dpjhgX20SCx4KAo`, Tizen 8 UA, key
-  `AIzaSyDyT5W0Jh49F30Pqqtyfdf7pDLFKLJoAnw`) → token bound to **video id** in
+  `AIzaSy...Anw`) → token bound to **video id** in
   `serviceIntegrityDimensions.poToken` + token bound to **visitor id** as `&pot=` on every format URL;
   challenge cached ~5 h 55 m.
 - Dated: 07-09 default → TV (Tizen 5.20150304); 07-20 #2094 SABR support; 07-25 #2208 Android Reel

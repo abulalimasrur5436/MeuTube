@@ -205,7 +205,7 @@ variants:
     endpoint:
       host: youtubei.googleapis.com
       path: /youtubei/v1/reel/reel_item_watch
-      query: {key: AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8, prettyPrint: "false", t: "${t}"}
+      query: {key: AIzaSy...qcW8, prettyPrint: "false", t: "${t}"}
       response_path: playerResponse
     headers:
       Origin: null
