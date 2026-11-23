@@ -1,4 +1,4 @@
-<p align="center"><img src=".github/assets/MeuTube/icon.png" width="112" alt="MeuTube logo"></p>
+<p align="center"><img src=".github/assets/meutube/icon.png" width="112" alt="MeuTube logo"></p>
 
 <h1 align="center">MeuTube</h1>
 
@@ -10,8 +10,7 @@
 
 **YouTube, reimagined. Different by design. Smooth by nature.** <br><br> **A YouTube video and music client, all in one app:** MeuTube for videos, and MeeTune, its music side, one tap away.<br><br> No ads. No interruptions. Just a gorgeous liquid glass interface, synced lyrics, background playback, and one-tap downloads.<br><br> **A fresh way to experience YouTube.**<br><br>
 
-<p align="center"><img src=".github/assets/MeuTube/showcase.webp" width="100%" alt="MeuTube in seven cards: Watch (no ads, real dislikes), Synced lyrics (every line, right on time), Home (videos play as you scroll), Channels (posts, Shorts and live chat), YouTube mode (the look you know), Equalizer (tune how it sounds) and Offline (4K, smart and auto downloads)"></p>
-
+<p align="center"><img src=".github/assets/meutube/showcase.webp" width="100%" alt="MeuTube in seven cards: Watch (no ads, real dislikes), Synced lyrics (every line, right on time), Home (videos play as you scroll), Channels (posts, Shorts and live chat), YouTube mode (the look you know), Equalizer (tune how it sounds) and Offline (4K, smart and auto downloads)"></p>
 
 <p align="center"><a href="https://github.com/abulalimasrur5436/MeuTube/releases/latest"><b>⬇ Download the latest MeuTube</b></a></p>
 
@@ -24,8 +23,8 @@
 
 <table>
 <tr>
-<td width="25%"><img src=".github/assets/MeuTube/screens/meetune_home.jpg" alt="MeeTune, MeuTube's music side"></td>
-<td width="25%"><img src=".github/assets/MeuTube/screens/meetune_now_playing.jpg" alt="MeeTune's player with synced lyrics"></td>
+<td width="25%"><img src=".github/assets/meutube/screens/meetune_home.jpg" alt="MeeTune, MeuTube's music side"></td>
+<td width="25%"><img src=".github/assets/meutube/screens/meetune_now_playing.jpg" alt="MeeTune's player with synced lyrics"></td>
 <td width="50%">
 
 ### MeeTune, your music side (beta)
@@ -43,8 +42,8 @@ MeeTune is in beta and growing with every release.
 </td>
 </tr>
 <tr>
-<td width="25%"><img src=".github/assets/MeuTube/screens/home.jpg" alt="Home with autoplay"></td>
-<td width="25%"><img src=".github/assets/MeuTube/screens/youtube_mode.jpg" alt="YouTube mode"></td>
+<td width="25%"><img src=".github/assets/meutube/screens/home.jpg" alt="Home with autoplay"></td>
+<td width="25%"><img src=".github/assets/meutube/screens/youtube_mode.jpg" alt="YouTube mode"></td>
 <td width="50%">
 
 ### Liquid glass, or YouTube mode
@@ -53,8 +52,8 @@ Frosted glass on the tab bar, the player and Shorts, lit by a glow that follows 
 </td>
 </tr>
 <tr>
-<td width="25%"><img src=".github/assets/MeuTube/screens/compact_player.jpg" alt="Compact watch page"></td>
-<td width="25%"><img src=".github/assets/MeuTube/screens/most_replayed.jpg" alt="Most replayed graph"></td>
+<td width="25%"><img src=".github/assets/meutube/screens/compact_player.jpg" alt="Compact watch page"></td>
+<td width="25%"><img src=".github/assets/meutube/screens/most_replayed.jpg" alt="Most replayed graph"></td>
 <td width="50%">
 
 ### A player that shows more
@@ -63,8 +62,8 @@ The compact watch page puts the actions beside Subscribe and the top comments ri
 </td>
 </tr>
 <tr>
-<td width="25%"><img src=".github/assets/MeuTube/lyrics.jpg" alt="Synced lyrics"></td>
-<td width="25%"><img src=".github/assets/MeuTube/screens/equalizer.jpg" alt="Equalizer in the player"></td>
+<td width="25%"><img src=".github/assets/meutube/lyrics.jpg" alt="Synced lyrics"></td>
+<td width="25%"><img src=".github/assets/meutube/screens/equalizer.jpg" alt="Equalizer in the player"></td>
 <td width="50%">
 
 ### Synced lyrics and an equalizer
@@ -73,8 +72,8 @@ Music videos get live, line-by-line lyrics from the provider you pick. The **equ
 </td>
 </tr>
 <tr>
-<td width="25%"><img src=".github/assets/MeuTube/screens/channel.jpg" alt="A channel page"></td>
-<td width="25%"><img src=".github/assets/MeuTube/screens/posts.jpg" alt="Community posts"></td>
+<td width="25%"><img src=".github/assets/meutube/screens/channel.jpg" alt="A channel page"></td>
+<td width="25%"><img src=".github/assets/meutube/screens/posts.jpg" alt="Community posts"></td>
 <td width="50%">
 
 ### Channels, posts and live chat
@@ -83,8 +82,8 @@ Channel pages with the banner, Subscribe and every tab. Like and reply to **comm
 </td>
 </tr>
 <tr>
-<td width="25%"><img src=".github/assets/MeuTube/screens/search.jpg" alt="Search with filters"></td>
-<td width="25%"><img src=".github/assets/MeuTube/screens/subscriptions.jpg" alt="Subscriptions"></td>
+<td width="25%"><img src=".github/assets/meutube/screens/search.jpg" alt="Search with filters"></td>
+<td width="25%"><img src=".github/assets/meutube/screens/subscriptions.jpg" alt="Subscriptions"></td>
 <td width="50%">
 
 ### Search and Subscriptions
@@ -93,7 +92,7 @@ YouTube's one-tap chips for Videos, Shorts, Live and Recently uploaded, plus the
 </td>
 </tr>
 <tr>
-<td width="25%"><img src=".github/assets/MeuTube/screens/you.jpg" alt="The You page with Downloads"></td>
+<td width="25%"><img src=".github/assets/meutube/screens/you.jpg" alt="The You page with Downloads"></td>
 <td colspan="2">
 
 ### Downloads in 4K, smart and automatic
@@ -138,10 +137,10 @@ MeuTube's glass design on Android TV and Google TV, tuned its own way. It instal
 - **Search that glows.** The screen's edges light up when Search opens, and your words glow as you type.
 
 <p align="center">
-<a href="https://github.com/abulalimasrur5436/MeuTube-tv"><img src="https://raw.githubusercontent.com/abulalimasrur5436/MeuTube-tv/main/.github/assets/MeuTube/tv_home.jpg" width="49%" alt="MeuTube TV: Home with the glass sidebar open"></a>
-<a href="https://github.com/abulalimasrur5436/MeuTube-tv"><img src="https://raw.githubusercontent.com/abulalimasrur5436/MeuTube-tv/main/.github/assets/MeuTube/tv_player.jpg" width="49%" alt="MeuTube TV: the glass player, every button in one row"></a>
-<a href="https://github.com/abulalimasrur5436/MeuTube-tv"><img src="https://raw.githubusercontent.com/abulalimasrur5436/MeuTube-tv/main/.github/assets/MeuTube/tv_shorts_player.jpg" width="49%" alt="MeuTube TV: a short in a rounded 9:16 card, its colors glowing around it"></a>
-<a href="https://github.com/abulalimasrur5436/MeuTube-tv"><img src="https://raw.githubusercontent.com/abulalimasrur5436/MeuTube-tv/main/.github/assets/MeuTube/tv_search.jpg" width="49%" alt="MeuTube TV: search results with suggestions on top"></a>
+<a href="https://github.com/abulalimasrur5436/MeuTube"><img src="https://raw.githubusercontent.com/yashoncode/meetube-tv/main/.github/assets/meetube/tv_home.jpg" width="49%" alt="MeuTube TV: Home with the glass sidebar open"></a>
+<a href="https://github.com/abulalimasrur5436/MeuTube"><img src="https://raw.githubusercontent.com/yashoncode/meetube-tv/main/.github/assets/meetube/tv_player.jpg" width="49%" alt="MeuTube TV: the glass player, every button in one row"></a>
+<a href="https://github.com/abulalimasrur5436/MeuTube"><img src="https://raw.githubusercontent.com/yashoncode/meetube-tv/main/.github/assets/meetube/tv_shorts_player.jpg" width="49%" alt="MeuTube TV: a short in a rounded 9:16 card, its colors glowing around it"></a>
+<a href="https://github.com/abulalimasrur5436/MeuTube"><img src="https://raw.githubusercontent.com/yashoncode/meetube-tv/main/.github/assets/meetube/tv_search.jpg" width="49%" alt="MeuTube TV: search results with suggestions on top"></a>
 </p>
 
 <p align="center"><a href="https://github.com/abulalimasrur5436/MeuTube-tv"><b>📺 Get MeuTube TV for your Android TV</b></a></p>
@@ -166,12 +165,6 @@ Behind every little feature are hours of my life, a few sleepless nights, and a 
 If you don't, maybe buy me a tea? 🍵
 
 No pressure, though. I built this with love, not expectations. ❤️
-
-<p align="center"><a href="https://buymeacoffee.com/yashwynth"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy me a coffee"></a></p>
-
-In India? Scan to send a coffee (or a chai) over UPI (`yashwynth@slc`):
-
-<p align="center"><img src=".github/assets/MeuTube/upi-qr.jpeg" width="240" alt="UPI QR code for yashwynth@slc"></p>
 
 A star on GitHub or sharing MeuTube with a friend helps just as much. Thank you for using it! ❤️
 

@@ -11,7 +11,7 @@ import sys
 import numpy as np
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
-ASSETS = os.path.join(os.path.dirname(__file__), '..', '.github', 'assets', 'meetube')
+ASSETS = os.path.join(os.path.dirname(__file__), '..', '.github', 'assets', 'meutube')
 FONTS = 'C:/Windows/Fonts/'
 RED = (255, 69, 58)
 
