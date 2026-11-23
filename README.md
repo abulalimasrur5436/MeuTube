@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/abulalimasrur5436/MeuTube/releases/latest"><img src="https://img.shields.io/github/v/release/abulalimasrur5436/MeuTube?style=for-the-badge&label=Release&color=0e75b6" alt="Release"></a>
 <a href="LICENSE"><img src="https://img.shields.io/github/license/abulalimasrur5436/MeuTube?style=for-the-badge&label=License&color=e8743b" alt="License"></a>
-<a href="#support-MeuTube"><img src="https://img.shields.io/badge/Support-MeuTube-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Support MeuTube"></a>
+<a href="https://github.com/abulalimasrur5436/MeuTube/stargazers"><img src="https://img.shields.io/github/stars/abulalimasrur5436/MeuTube?style=for-the-badge&color=ffd700&label=Star" alt="Star"></a>
 </p>
 
 **YouTube, reimagined. Different by design. Smooth by nature.** <br><br> **A YouTube video and music client, all in one app:** MeuTube for videos, and MeeTune, its music side, one tap away.<br><br> No ads. No interruptions. Just a gorgeous liquid glass interface, synced lyrics, background playback, and one-tap downloads.<br><br> **A fresh way to experience YouTube.**<br><br>
@@ -159,67 +159,23 @@ Releases are made by pushing a `vX.Y.Z` tag: [release.yml](.github/workflows/rel
 
 ## Support MeuTube
 
-Behind every little feature are hours of my life, a few sleepless nights, and a lot of hope that someone out there finds it useful.
+MeuTube is designed to offer the cleanest, fastest, and most modern ad-free YouTube and YouTube Music streaming experience.
 
-❤️ If you love my work, buy me a coffee. ☕<br>
-If you don't, maybe buy me a tea? 🍵
+❤️ If you find MeuTube useful and want to support the project:
+- ⭐ **Star this repository on GitHub** to help more people discover MeuTube!
+- 📢 **Share MeuTube** with your friends and family.
+- 💡 **Report issues or suggest ideas** in [Issues](https://github.com/abulalimasrur5436/MeuTube/issues).
 
-No pressure, though. I built this with love, not expectations. ❤️
-
-A star on GitHub or sharing MeuTube with a friend helps just as much. Thank you for using it! ❤️
+Thank you for being part of the journey!
 
 ## Credits
 
-Big thanks to [SmartTube](https://github.com/yuliskov/SmartTube) by [@yuliskov](https://github.com/yuliskov) and [NewTube](https://github.com/aleixrodriala/newtube) by [@aleixrodriala](https://github.com/aleixrodriala). Their open source work made MeuTube and MeuTube TV possible.
-
-Headphone correction uses the profiles from [AutoEq](https://github.com/jaakkopasanen/AutoEq) by [@jaakkopasanen](https://github.com/jaakkopasanen).
-
-And thank you to everyone who sent a fix, reported a bug or suggested an idea. MeuTube is better because of you:
-
-<p align="center">
-<a href="https://github.com/KrishnakantShedge" title="KrishnakantShedge"><img src="https://github.com/KrishnakantShedge.png?size=96" width="48" height="48" alt="KrishnakantShedge"></a>
-<a href="https://github.com/Ishaanj2007" title="Ishaanj2007"><img src="https://github.com/Ishaanj2007.png?size=96" width="48" height="48" alt="Ishaanj2007"></a>
-<a href="https://github.com/alibinarshad" title="alibinarshad"><img src="https://github.com/alibinarshad.png?size=96" width="48" height="48" alt="alibinarshad"></a>
-<a href="https://github.com/sushi1579" title="sushi1579"><img src="https://github.com/sushi1579.png?size=96" width="48" height="48" alt="sushi1579"></a>
-<a href="https://github.com/y4hya3" title="y4hya3"><img src="https://github.com/y4hya3.png?size=96" width="48" height="48" alt="y4hya3"></a>
-<a href="https://github.com/dhanunjay333i-cyber" title="dhanunjay333i-cyber"><img src="https://github.com/dhanunjay333i-cyber.png?size=96" width="48" height="48" alt="dhanunjay333i-cyber"></a>
-<a href="https://github.com/y198h" title="y198h"><img src="https://github.com/y198h.png?size=96" width="48" height="48" alt="y198h"></a>
-<a href="https://github.com/editmatrix" title="editmatrix"><img src="https://github.com/editmatrix.png?size=96" width="48" height="48" alt="editmatrix"></a>
-<a href="https://github.com/94Dan" title="94Dan"><img src="https://github.com/94Dan.png?size=96" width="48" height="48" alt="94Dan"></a>
-<a href="https://github.com/Evergreenpro" title="Evergreenpro"><img src="https://github.com/Evergreenpro.png?size=96" width="48" height="48" alt="Evergreenpro"></a>
-<a href="https://github.com/Batmancpu" title="Batmancpu"><img src="https://github.com/Batmancpu.png?size=96" width="48" height="48" alt="Batmancpu"></a>
-<a href="https://github.com/karthick4568" title="karthick4568"><img src="https://github.com/karthick4568.png?size=96" width="48" height="48" alt="karthick4568"></a>
-<a href="https://github.com/Hrcosmos" title="Hrcosmos"><img src="https://github.com/Hrcosmos.png?size=96" width="48" height="48" alt="Hrcosmos"></a>
-<a href="https://github.com/abdulsamiamiri11-lang" title="abdulsamiamiri11-lang"><img src="https://github.com/abdulsamiamiri11-lang.png?size=96" width="48" height="48" alt="abdulsamiamiri11-lang"></a>
-<a href="https://github.com/m0in01" title="m0in01"><img src="https://github.com/m0in01.png?size=96" width="48" height="48" alt="m0in01"></a>
-<a href="https://github.com/mygtvact" title="mygtvact"><img src="https://github.com/mygtvact.png?size=96" width="48" height="48" alt="mygtvact"></a>
-<a href="https://github.com/ra-rear" title="ra-rear"><img src="https://github.com/ra-rear.png?size=96" width="48" height="48" alt="ra-rear"></a>
-<a href="https://github.com/harshXigll" title="harshXigll"><img src="https://github.com/harshXigll.png?size=96" width="48" height="48" alt="harshXigll"></a>
-<a href="https://github.com/AshUchiha3" title="AshUchiha3"><img src="https://github.com/AshUchiha3.png?size=96" width="48" height="48" alt="AshUchiha3"></a>
-<a href="https://github.com/abanbinarshadmail-dotcom" title="abanbinarshadmail-dotcom"><img src="https://github.com/abanbinarshadmail-dotcom.png?size=96" width="48" height="48" alt="abanbinarshadmail-dotcom"></a>
-<a href="https://github.com/jokychan797-stack" title="jokychan797-stack"><img src="https://github.com/jokychan797-stack.png?size=96" width="48" height="48" alt="jokychan797-stack"></a>
-<a href="https://github.com/Capricornus007" title="Capricornus007"><img src="https://github.com/Capricornus007.png?size=96" width="48" height="48" alt="Capricornus007"></a>
-<a href="https://github.com/Reird" title="Reird"><img src="https://github.com/Reird.png?size=96" width="48" height="48" alt="Reird"></a>
-<a href="https://github.com/MAKAKAIglitch" title="MAKAKAIglitch"><img src="https://github.com/MAKAKAIglitch.png?size=96" width="48" height="48" alt="MAKAKAIglitch"></a>
-<a href="https://github.com/sakuraDev31" title="sakuraDev31"><img src="https://github.com/sakuraDev31.png?size=96" width="48" height="48" alt="sakuraDev31"></a>
-<a href="https://github.com/SpadezOfSpadez" title="SpadezOfSpadez"><img src="https://github.com/SpadezOfSpadez.png?size=96" width="48" height="48" alt="SpadezOfSpadez"></a>
-<a href="https://github.com/Golukumar00" title="Golukumar00"><img src="https://github.com/Golukumar00.png?size=96" width="48" height="48" alt="Golukumar00"></a>
-<a href="https://github.com/froost4" title="froost4"><img src="https://github.com/froost4.png?size=96" width="48" height="48" alt="froost4"></a>
-<a href="https://github.com/kazierski" title="kazierski"><img src="https://github.com/kazierski.png?size=96" width="48" height="48" alt="kazierski"></a>
-<a href="https://github.com/Hammoudi99" title="Hammoudi99"><img src="https://github.com/Hammoudi99.png?size=96" width="48" height="48" alt="Hammoudi99"></a>
-<a href="https://github.com/kadheerk49" title="kadheerk49"><img src="https://github.com/kadheerk49.png?size=96" width="48" height="48" alt="kadheerk49"></a>
-<a href="https://github.com/GeorgAR" title="GeorgAR"><img src="https://github.com/GeorgAR.png?size=96" width="48" height="48" alt="GeorgAR"></a>
-<a href="https://github.com/akshaymaurya26" title="akshaymaurya26"><img src="https://github.com/akshaymaurya26.png?size=96" width="48" height="48" alt="akshaymaurya26"></a>
-<a href="https://github.com/muksidulrahman077-creator" title="muksidulrahman077-creator"><img src="https://github.com/muksidulrahman077-creator.png?size=96" width="48" height="48" alt="muksidulrahman077-creator"></a>
-<a href="https://github.com/upt8543-eng" title="upt8543-eng"><img src="https://github.com/upt8543-eng.png?size=96" width="48" height="48" alt="upt8543-eng"></a>
-<a href="https://github.com/debugging03" title="debugging03"><img src="https://github.com/debugging03.png?size=96" width="48" height="48" alt="debugging03"></a>
-<a href="https://github.com/DarkGGM" title="DarkGGM"><img src="https://github.com/DarkGGM.png?size=96" width="48" height="48" alt="DarkGGM"></a>
-<a href="https://github.com/Abinpj1" title="Abinpj1"><img src="https://github.com/Abinpj1.png?size=96" width="48" height="48" alt="Abinpj1"></a>
-<a href="https://github.com/Subbarao6338" title="Subbarao6338"><img src="https://github.com/Subbarao6338.png?size=96" width="48" height="48" alt="Subbarao6338"></a>
-<a href="https://github.com/sauravdahalbro-ui" title="sauravdahalbro-ui"><img src="https://github.com/sauravdahalbro-ui.png?size=96" width="48" height="48" alt="sauravdahalbro-ui"></a>
-</p>
+Big thanks to the open-source projects that made MeuTube possible:
+- [SmartTube](https://github.com/yuliskov/SmartTube) by [@yuliskov](https://github.com/yuliskov) for the media service architecture and ad-free playback core.
+- [NewTube](https://github.com/aleixrodriala/newtube) by [@aleixrodriala](https://github.com/aleixrodriala) for the liquid glass UI and Android mobile design.
+- [AutoEq](https://github.com/jaakkopasanen/AutoEq) by [@jaakkopasanen](https://github.com/jaakkopasanen) for headphone correction profiles.
 
 ## License
 
-MIT, see [LICENSE](LICENSE). The original NewTube and SmartTube copyright notices are kept. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+MIT, see [LICENSE](LICENSE). The original NewTube and SmartTube copyright notices are preserved. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
